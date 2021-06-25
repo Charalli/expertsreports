@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+#logotipo{
+    position: relative;
+    margin-top: 10px;
+    width: 200px;
+}
+
+.titulo
+{
+    color: #0B8C68;
+    font-family: 'Anton', sans-serif;
+    font-size: 36px;
+}
+
+.sub-titulo
+{
+    color: #404040;
+    font-family: 'Anton', sans-serif;
+    font-size: 24px
+}
+
+#sessao1{
+    background-color: #f0f0f0;
+    text-align: center;
+    align-items: center;
+}
+
+#sessao2{
+    background-color: #0B8C68;
+    height: 400px;
+    color: #ffffff;
+}
+
+#sessao3{
+    background-color: #ffffff;
+    height: 400px;
+    color: #ffffff;
+}
+
+#sessao4{
+    background-color: #404040;
+    height: 400px;
+    color: #ffffff;
+}
