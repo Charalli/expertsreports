@@ -28,7 +28,7 @@
 
 #sessao2{
     background-color: #0B8C68;
-    height: 400px;
+    height: 550px;
     color: #ffffff;
 }
 
@@ -42,4 +42,13 @@
     background-color: #404040;
     height: 400px;
     color: #ffffff;
+}
+
+.img_gn{
+    width: 300px;
+    height: 250px;
+}
+
+hr{
+    background-color: #ffffff;
 }
