@@ -28,19 +28,18 @@
 
 #sessao2{
     background-color: #0B8C68;
-    height: 550px;
-    color: #ffffff;
+    height: auto;
 }
 
 #sessao3{
     background-color: #ffffff;
-    height: 400px;
+    height: auto;
     color: #ffffff;
 }
 
 #sessao4{
     background-color: #404040;
-    height: 400px;
+    height: auto;
     color: #ffffff;
 }
 
@@ -51,4 +50,12 @@
 
 hr{
     background-color: #ffffff;
+}
+
+.img-conv{
+    position: relative;
+    margin: auto;
+    top: 10px;
+    bottom: 10px;
+    width: 200px;
 }
